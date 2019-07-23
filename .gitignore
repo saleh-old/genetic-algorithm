@@ -1,0 +1,7 @@
+/_pycache_
+/.pytest_cache
+/.idea
+.DS_Store
+/.vagrant
+*.pyc
+/__pycache__
