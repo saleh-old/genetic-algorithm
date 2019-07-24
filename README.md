@@ -3,7 +3,7 @@ This implementation is simple yet advanced:
 
 - it's fast and optimized.
 - Supports both fitness_goal and iterations for ending the evolution process.
-- It's been tailored to be used at your custom use cases.
+- Tailored to be used at your custom use cases.
 - No dependencies are required.
  
 ## Usage Example
@@ -11,7 +11,7 @@ This implementation is simple yet advanced:
 All you need to do is to copy the `Genetic` class into your project and use like below example.
 
 
-Let's say we're looking to find a 20 characters string containing only numbers in it. We'll create a class 
+Let's say we're looking to find a 40 characters string containing only numbers in it. We'll create a class 
 and name it `ClassToEvolve` while extending the Genetic class, implement the `fitness()` method:
 
 ```python
